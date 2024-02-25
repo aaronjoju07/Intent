@@ -33,7 +33,7 @@ Follow these steps to get the project up and running on your local machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Intent-Program.git
+   git clone https://github.com/aaronjoju07/Intent.git
    ```
 
 2. Open the project in Android Studio.
